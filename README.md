@@ -67,6 +67,3 @@ $ yarn httpserver
 * [Service Worker](https://github.com/NekR/offline-plugin)
 * Webpack Plugins: Html, Copy, MiniCssExtract, Define
 
-## TypeScript
-
-### Please go to [TS repo](https://github.com/king-prawns/webpack4-starter-kit-ts)
