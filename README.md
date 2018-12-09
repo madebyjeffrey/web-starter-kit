@@ -2,6 +2,8 @@
 
 Webpack 4 with webpack-dev-server configuration.
 
+Based on https://github.com/king-prawns/webpack4-starter-kit.git
+
 ## Requirements
 
 - Node >= v6.x
