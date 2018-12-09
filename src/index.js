@@ -1,8 +1,4 @@
-import './index.pcss';
-import MyApp from './components/my-app';
+import './index.scss';
 
-if (PRODUCTION) {
-  require('offline-plugin/runtime').install();
-}
-
-customElements.define('my-app', MyApp);
+console.log('Test');
+console.log(1 + 2);

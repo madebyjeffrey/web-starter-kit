@@ -59,12 +59,8 @@
     "opn": "5.4.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "ora": "3.0.0",
-    "postcss-easy-import": "3.0.0",
-    "postcss-load-config": "2.0.0",
-    "postcss-loader": "3.0.0",
-    "postcss-preset-env": "6.4.0",
-    "postcss-reporter": "6.0.0",
-    "postcss-responsive-type": "1.0.0",
+    "sass-loader": "7.1.0",
+    "node-sass": "4.10.0",
     "resolve-url-loader": "3.0.0",
     "style-loader": "0.23.1",
     "stylelint": "9.9.0",
@@ -77,5 +73,7 @@
     "webpack-dev-server": "3.1.10",
     "webpack-merge": "4.1.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "d3": "~5.7.0"
+  }
 }
